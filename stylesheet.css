@@ -6,6 +6,7 @@
 	padding:20px;
 }
 
+
 .border_red {
 	border-style: solid;
 	border-width: 1px;
@@ -19,6 +20,18 @@
 	border-color: #b4b5b8;
 	padding: 15px;
 
+}
+
+.logo{
+	font-family: 'Lobster', cursive;
+}
+
+.font {
+	font-family: 'Roboto', sans-serif;
+}
+
+.black {
+    color: black;
 }
 	
 
